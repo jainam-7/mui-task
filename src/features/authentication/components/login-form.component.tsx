@@ -321,7 +321,7 @@ export const LoginForm: React.FC = () => {
             {/* Footer */}
             <Box sx={{ textAlign: "center", mt: 3 }}>
               <Typography variant="caption" color="text.secondary">
-                © 2024 {APP_CONFIG.name}. All rights reserved.
+                © 2025 {APP_CONFIG.name}. All rights reserved.
               </Typography>
             </Box>
           </CardContent>
